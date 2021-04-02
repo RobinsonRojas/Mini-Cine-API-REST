@@ -37,3 +37,6 @@ insert into usuario (nombre_usuario) values ('Siana');
 insert into usuario (nombre_usuario) values ('Basia');
 insert into usuario (nombre_usuario) values ('Hilario');
 insert into usuario (nombre_usuario) values ('Eb');
+
+-- para el Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client.
+-- ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '12345';

@@ -5,8 +5,10 @@ const app = express();
 app.set('port', process.env.PORT || 3000);
 
 //Middleware
+app.use(express.json());
 
-//Routers
+//Routes
+app.use(require('./routes/clientes'))
 
 //Starting the server
 app.listen(app.get('port'), () => {

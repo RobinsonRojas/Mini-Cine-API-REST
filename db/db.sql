@@ -51,7 +51,7 @@ CREATE PROCEDURE usuarioAddOrEdit (
 BEGIN 
     IF _id = 0 THEN
         INSERT INTO usuario(nombre_usuario) 
-        VALuES(_nombre);
+        VALUES(_nombre);
         SET _id = LAST_INSERT_ID();
     ELSE
         UPDATE usuario

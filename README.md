@@ -4,9 +4,9 @@ En este proyecto se desarrolla una API RES utilizando node.js y MySQL, donde ten
 ## 🎬Video
 [![Watch the video](https://i.imgur.com/HUHXqMw.png)](https://www.youtube.com/watch?v=MwPrhgxPcXg&ab_channel=JohnDannySteveVILLAMILGONZALEZ)
 
-## 👨‍💻Tecnologías
+## 👨‍💻Tecnologías 
 - [Node.js](https://nodejs.org/es/)
- - [NPM](https://www.npmjs.com/)
+    - [NPM](https://www.npmjs.com/)
 - [MySQL](https://www.mysql.com/)
 - [Postman](www.postman.com)
 

@@ -52,7 +52,7 @@ link
 
 ## Autores ✒️
 * [Robinson Rojas](https://github.com/RobinsonRojas)
-* @RobinsonRojas
+* @Robinson Arley Rojas Novoa
 * [Jhon villamil](#fulanito-de-tal)
 
 ###### 🌐Basado en la guia de Fazt

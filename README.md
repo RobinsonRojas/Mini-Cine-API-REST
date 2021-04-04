@@ -26,7 +26,7 @@ En este proyecto se desarrolla una API RES utilizando node.js y MySQL, donde ten
     ```bash
     $  node src/index.js
     ```
-2. Instala el modulo nodemon  **-D:** como **devDependencies** que significa dependencia de desarrollo que no son necesarias para el funcionamiento del proyecto.<
+2. Instala el modulo nodemon  **-D:** como **devDependencies** que significa dependencia de desarrollo que no son necesarias para el funcionamiento del proyecto.
     ```bash
     $   npm install nodemon -D
     ```

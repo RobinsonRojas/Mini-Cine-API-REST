@@ -1,7 +1,8 @@
 # 📃Descripcion
 En este proyecto se desarrolla una API RES utilizando node.js y MySQL, donde tendremos una direccion de internet donde podemos perdir los datos que esten almacenados en la base de datos MySQL, añadir nuevos datos, actualizarlos y eliminarlos con los metodos GET, POST, PUT y DELETE. Que se puden probar des de postman.
+
 ## 🎬Video
-link
+[![Watch the video](https://i.imgur.com/HUHXqMw.png)](https://www.youtube.com/watch?v=MwPrhgxPcXg&ab_channel=JohnDannySteveVILLAMILGONZALEZ)
 
 ## 👨‍💻Tecnologías
 - [Node.js](https://nodejs.org/es/)
@@ -52,8 +53,7 @@ link
 
 ## Autores ✒️
 * [Robinson Rojas](https://github.com/RobinsonRojas)
-* @Robinson Arley Rojas Novoa
-* [Jhon villamil](#fulanito-de-tal)
+* [John Villamil](https://github.com/jdsvg)
 
 ###### 🌐Basado en la guia de Fazt
 - [Nodejs y Mysql Rest API](https://www.youtube.com/watch?v=p8CoR-wymQg&ab_channel=Fazt/)

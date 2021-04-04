@@ -1,7 +1,7 @@
 # 📃Descripcion
 En este proyecto se desarrolla una API RES utilizando node.js y MySQL, donde tendremos una direccion de internet donde podemos perdir los datos que esten almacenados en la base de datos MySQL, añadir nuevos datos, actualizarlos y eliminarlos con los metodos GET, POST, PUT y DELETE. Que se puden probar des de postman.
 
-## Tecnologías
+## 👨‍💻Tecnologías
 - [Node.js](https://nodejs.org/es/)
  - [NPM](https://www.npmjs.com/)
 - [MySQL](https://www.mysql.com/)
@@ -22,6 +22,7 @@ En este proyecto se desarrolla una API RES utilizando node.js y MySQL, donde ten
 
 2. > Instala el modulo nodemon  **-D:** como **devDependencies** que significa depencencia de desarrollo que no son necesarias para el funcinamiento del proyecto.<br/>
 `$   npm install nodemon -D` <br/>
+
 **nomdemo:** es una herramienta que ayuda a desarrollar aplicaciones basadas en node.js al reiniciar automáticamente la aplicación de nodo cuando se detectan cambios de archivo en el directorio.
 
 3. > Inicia el servidor creado en el archivo en mencion con nodemon.<br/>

@@ -40,16 +40,16 @@ En este proyecto se desarrolla una API RES utilizando node.js y MySQL, donde ten
 
 
 ## 📁REST-API-CINE-CRUD
-- 📁db
-    - db.sql : Se crea la base de datos y los procedure.
-- 📁node_modules : Módulos de node al instalar express.
-- 📁src
-    - 📁routes
+- 📁**db**
+    - **db.sql :** Se crea la base de datos y los procedure.
+- 📁**node_modules :** Módulos de node al instalar express.
+- 📁**src**
+    - 📁**routes**
         - clientes.js : se crean los métodos del CRUD.
-    - databse.js : Conexión con la base de datos.
-    - index.js : Configuracion de servidor, puertos, middleware y inicialización del servidor.
-- package-lock.json : Módulos de node.
-- package.json : Configuración de npm.
+    - **databse.js** : Conexión con la base de datos.
+    - **index.js :** Configuracion de servidor, puertos, middleware y inicialización del servidor.
+- **package-lock.json :** Módulos de node.
+- **package.json :** Configuración de npm.
 
 ## Autores ✒️
 * [Robinson Rojas](https://github.com/RobinsonRojas)

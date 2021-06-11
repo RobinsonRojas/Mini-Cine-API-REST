@@ -58,3 +58,5 @@ En este proyecto se desarrolla una API RES utilizando node.js y MySQL, donde ten
 ###### 🌐Basado en la guía de Fazt
 - [Nodejs y Mysql Rest API](https://www.youtube.com/watch?v=p8CoR-wymQg&ab_channel=Fazt/)
 
+jajooj
+x333

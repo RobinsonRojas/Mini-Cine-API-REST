@@ -40,7 +40,7 @@ En este proyecto se desarrolla una API RES utilizando node.js y MySQL, donde ten
 - [John Villamil](https://github.com/jdsvg)
 
 ### 📝 License
-This project is licensed under MIT license.
+This project is licensed under **MIT License**. See the [LICENSE](LICENSE) file for more information.
 
 ### Based on 🌐
 [Nodejs y Mysql Rest API](https://www.youtube.com/watch?v=p8CoR-wymQg&ab_channel=Fazt/)

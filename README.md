@@ -1,9 +1,6 @@
 # 📃Descripción
 En este proyecto se desarrolla una API RES utilizando node.js y MySQL, donde tendremos una dirección de internet donde podemos pedir los datos que estén almacenados en la base de datos MySQL, añadir nuevos datos, actualizarlos y eliminarlos con los métodos GET, POST, PUT y DELETE. Que se pueden probar des de postman. 
 
-## 🎬Video
-[![Watch the video](https://i.imgur.com/HUHXqMw.png)](https://www.youtube.com/watch?v=MwPrhgxPcXg&ab_channel=JohnDannySteveVILLAMILGONZALEZ)
-
 ## 👨‍💻Tecnologías 
 - [Node.js](https://nodejs.org/es/)
     - [NPM](https://www.npmjs.com/)
@@ -38,25 +35,9 @@ En este proyecto se desarrolla una API RES utilizando node.js y MySQL, donde ten
     ```
     **("dev": "nodemon src/index.js")** se inicializa en el scripts del archivo **package.json** para que el comando lo reconozca.
 
+## Authors ✒️
+- [Robinson Rojas](https://github.com/RobinsonRojas)
+- [John Villamil](https://github.com/jdsvg)
 
-## 📁REST-API-CINE-CRUD
-- 📁**db**
-    - **db.sql :** Se crea la base de datos y los procedure.
-- 📁**node_modules :** Módulos de node al instalar express.
-- 📁**src**
-    - 📁**routes**
-        - **clientes.js :** se crean los métodos del CRUD.
-    - **databse.js :** Conexión con la base de datos.
-    - **index.js :** Configuracion de servidor, puertos, middleware y inicialización del servidor.
-- **package-lock.json :** Módulos de node.
-- **package.json :** Configuración de npm.
-
-## Autores ✒️
-* [Robinson Rojas](https://github.com/RobinsonRojas)
-* [John Villamil](https://github.com/jdsvg)
-
-###### 🌐Basado en la guía de Fazt
+### Based on 🌐
 - [Nodejs y Mysql Rest API](https://www.youtube.com/watch?v=p8CoR-wymQg&ab_channel=Fazt/)
-
-jajooj
-x333

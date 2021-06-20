@@ -39,7 +39,9 @@ En este proyecto se desarrolla una API RES utilizando node.js y MySQL, donde ten
 - [Robinson Rojas](https://github.com/RobinsonRojas)
 - [John Villamil](https://github.com/jdsvg)
 
-### 📝 License
+---
+
+### License 📝
 This project is licensed under **MIT License**. See the [LICENSE](LICENSE) file for more information.
 
 ### Based on 🌐

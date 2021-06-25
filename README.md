@@ -1,6 +1,6 @@
 # Descripción 📃
 
-API RES CRUD utilizando **node.js** y **MySQL**, donde podemos pedir los datos que estén almacenados en la base de datos MySQL, añadir nuevos datos, actualizarlos y eliminarlos con los métodos GET, POST, PUT y DELETE. Que se pueden probar des de **postman**.
+API RES CRUD utilizando **MySQL, Express y node.js**, donde podemos pedir los datos que estén almacenados en la base de datos MySQL, añadir nuevos datos, actualizarlos y eliminarlos con los métodos GET, POST, PUT y DELETE. Que se pueden probar des de **postman**.
 
 ## npm Packages
 
